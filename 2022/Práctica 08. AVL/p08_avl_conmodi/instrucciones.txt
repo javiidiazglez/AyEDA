@@ -1,0 +1,13 @@
+Error: Escriba:
+
+Modo TRAZA      -> ./avl TRAZA
+Modo SIN TRAZA  -> ./avl
+
+INSTRUCCIONES:
+
+  [0] Para salir
+  [1] Para insertar una Clave
+  [2] Para buscar una Clave
+  [3] Para mostrar un Árbol
+  [4] Para mostrar un Árbol Inorden
+  [5] Para eliminar una Clave

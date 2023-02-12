@@ -1,0 +1,6 @@
+modificacion=
+
+mundo = WHITE= 0
+giras 180, si estas yendo arriba pasas abajo, si estas yendo derecha pasas a ir a la izquierda
+
+archivos modificados: world.h y rotation.cc

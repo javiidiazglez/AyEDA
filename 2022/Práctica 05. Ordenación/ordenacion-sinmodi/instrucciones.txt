@@ -1,0 +1,7 @@
+Error: Escriba -> ./ordenar
+
+INSTRUCCIONES:
+  1. Indique el tamaño del vector.
+  2. Indique si quiere generar un vector aleatorio o manual.
+  3. Seleccione el tipo de algoritmo que quiere en un menú.
+  4. Salida final del algoritmo.

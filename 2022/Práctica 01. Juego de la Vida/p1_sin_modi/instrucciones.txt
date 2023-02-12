@@ -1,0 +1,7 @@
+Error: Escriba -> ./juego_vida
+
+INSTRUCCIONES:
+  1. Indique las dimensiones del TABLERO
+  2. Indique cuantos turnos a jugar
+  3. Indique cuántas células vivas contendrá inicialmente
+  4. Indique las posiciones de dichas células
