@@ -1,0 +1,39 @@
+La función del programa hash_table es la implementación de una tabla hash donde puedes insertar y buscar claves
+ 
+Para compilar el programa usar la instrucción make en el directorio raíz del proyecto
+$ make
+ 
+Para ejecutar el programa realizar:
+$ ./hashTable 
+ 
+En caso de que sea necesario se puede acceder a la ayuda con
+$ ./hashTable [-h | --help] 
+
+El funcionamiento del programa principal es el siguiente:
+
+  a) Se pide al usuario el tamaño de la tabla, la función de dispersión y la técnica de
+  de dispersión a utilizar.
+
+  b) En caso de elegir la técnica de dispersión cerrada también se pide al usuario el tamaño
+  del bloque y la función de exploración a utilizar.
+
+  c) Se crea el objeto que implementa la función de dispersión elegida, y si es el caso
+  también se crea el objeto que implementa la función de exploración.
+
+  d) Se crea una tabla hash con el tipo de Clave=long y los parámetros especificados por el usuario.
+
+  e) A continuación implementa un menú que permite insertar y buscar los valores de
+  clave indicados por el usuario, y muestra el resultado de la operación.
+
+Los siguientes métodos de dispersión:
+  
+  - Módulo
+  - Basada en la suma
+  - Pseudoaleatoria
+
+Los siguientes métodos de exploración:
+
+  - Lineal
+  - Cuadrática
+  - Doble dispersión
+  - redispersión
