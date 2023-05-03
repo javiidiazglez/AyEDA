@@ -1,0 +1,24 @@
+Error: Escriba:
+
+Con Traza:
+  -> make traza
+  -> ./p06_arboles
+
+SIN Traza:
+  -> make
+  -> ./p06_arboles
+
+INSTRUCCIONES:
+
+Tipo de arbol: 
+  [1] ABB o [2] AVL
+
+Menu:
+  [0] Para Salir
+  [1] Para Insertar una Clave
+  [2] Para Buscar una Clave
+  [3] Para Mostrar el Arbol
+  [4] Para Mostrar un arbol Inorden
+  [5] Para Mostrar un arbol Preorden
+  [6] Para Mostrar un arbol Postorden
+  [7] Para Eliminar una clave
